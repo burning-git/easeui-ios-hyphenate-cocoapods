@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
   spec.resource     = 'EaseUI/resources/EaseUIResource.bundle'
   spec.xcconfig     = {'OTHER_LDFLAGS' => '-ObjC'}
  # spec.dependency 'MWPhotoBrowser', :git => 'https://github.com/burning-git/MWPhotoBrowser.git'    
-  spec.dependecny 'MWPhotoBrowser',:git => 'https://github.com/EvoIos/MWPhotoBrowser.git', :commit => 'd41d6322124d68c662df9e0c2242dcc993f45afd'
+ #  spec.dependecny 'MWPhotoBrowser',:git => 'https://github.com/EvoIos/MWPhotoBrowser.git', :commit => 'd41d6322124d68c662df9e0c2242dcc993f45afd'
 
   spec.dependency 'MJRefresh'
   spec.dependency 'Hyphenate', '~> 3.5.3'
