@@ -1,4 +1,4 @@
-iPod::Spec.new do |spec|
+Pod::Spec.new do |spec|
   spec.name         = 'EaseUI'
   spec.version      = '3.5.3'
   spec.license       = { :type => 'Copyright', :text => 'EaseMob Inc. 2017' }
