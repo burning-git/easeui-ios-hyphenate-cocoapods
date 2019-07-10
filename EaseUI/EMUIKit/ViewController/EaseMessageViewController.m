@@ -17,6 +17,7 @@
 #import <AssetsLibrary/AssetsLibrary.h>
 
 #import "UIImage+GIF.h"
+#import "UIImage+GifModify.h"
 
 #import "NSDate+Category.h"
 #import "EaseUsersListViewController.h"
