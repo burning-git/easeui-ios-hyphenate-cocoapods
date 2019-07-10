@@ -39,6 +39,7 @@
 #import "UIViewController+HUD.h"
 #import "UIViewController+DismissKeyboard.h"
 #import "EaseLocalDefine.h"
+#import "UIImage+GifModify.h"
 
 @interface EaseUI : NSObject
 
