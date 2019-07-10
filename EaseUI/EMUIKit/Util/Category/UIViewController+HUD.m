@@ -11,8 +11,7 @@
  */
 
 #import "UIViewController+HUD.h"
-#import <MBProgressHUD/MBProgressHUD.h>
-//#import "MBProgressHUD.h"
+#import "MBProgressHUD.h"
 #import <objc/runtime.h>
 
 static const void *HttpRequestHUDKey = &HttpRequestHUDKey;
